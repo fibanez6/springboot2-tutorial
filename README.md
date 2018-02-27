@@ -5,7 +5,8 @@
 * Gradle 4.5.1
 
 ### Content
-* Basic HelloWorld Controller
+* MVC - Basic HelloWorld Controller + test
+* RESTful Web Service - REST HelloWorld
 
 ### Installation
 
@@ -18,7 +19,10 @@
 
 ### Run
 
-Open your browser and go to:
+Open your browser and go to one of the following endpoints:
 ```
 http://localhost:8080/hello?name=Dolly
+
+REST
+http://localhost:8080/rest?name=Dolly
 ```
